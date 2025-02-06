@@ -1,6 +1,6 @@
 # 📊 Dashboard de Monitoramento de Preços
 
-Um painel que acompanha os preços de um determinado produto (ex: celulares, placas de vídeo) e alerta quando o valor cai abaixo de um determinado preço.
+Um painel que acompanha os preços de um determinado produto (ex: celulares, placas de vídeo). Este projeto foi minha primeira experiência prática com o Next.Js, e meu objetivo foi entender melhor suas vantagens em relação ao React tradicional, especialmente no que diz respeito ao Server-Side Rendering (SSR) e ao Static Site Generation (SSG) e aprimorar as habilidades com web scraping no qual apliquei anteriormente apenas com Python.
 
 ---
 
